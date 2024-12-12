@@ -12,4 +12,4 @@ Assignment 4-6: Stack model and LSTM+CNN
 
 Assignment 7: Use the VAE to generate the CIFAR dataset
 
-Assignment 8: Use the GAN to generate the CIFAR dataset
+Assignment 8: Use the CBAM + CNN to classify the CIFAR dataset
